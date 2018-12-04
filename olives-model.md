@@ -1,6 +1,13 @@
+---
+nav_include: 2
+title: Models
+notebook: olives-model.ipynb
+---
 
-# Models
-
+## Contents
+{:.no_toc}
+*  
+{: toc}
 
 
 ```python
